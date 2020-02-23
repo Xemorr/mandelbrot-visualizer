@@ -1,0 +1,2 @@
+# mandelbrot-visualizer
+Mandelbrot Visualizer
